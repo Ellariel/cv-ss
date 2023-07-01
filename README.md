@@ -1,11 +1,12 @@
 # Danila Valko
-<sup>E-mail: d.v.valko@gmail.com</sup><br>
-<sup>Links:  [GoogleScholar](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru)  ·  [ResearchGate](https://www.researchgate.net/profile/Danila-Valko)  ·  [LinkedIn](http://www.linkedin.com/in/ellariel)  ·  [GitHub](https://github.com/ellariel)</sup>
+
+<sup>Links:&emsp;[<img src="googlescholar.png" width="24" alt="GoogleScholar">](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru)&emsp;[<img src="researchgate.png" width="22" alt="ResearchGate">](https://www.researchgate.net/profile/Danila-Valko)&emsp;[<img src="linkedin.png" width="22" alt="LinkedIn">](http://www.linkedin.com/in/ellariel)&emsp;[<img src="github.png" width="24" alt="GitHub">](https://github.com/ellariel)</sup><br>
+<sup>E-mail:&emsp;d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
 ___
-- Sustainable Development & Circular Economy
 - Environmental Attitudes & Behavior
+- Sustainable Development & Circular Economy
 - Social Data Science for Sustainability
 
 
