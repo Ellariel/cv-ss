@@ -51,7 +51,7 @@ ___
 - *Valko, D.* (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. *St Petersburg University Journal of Economic Studies*, [https://doi.org/10.21638/spbu05.2021.105](https://doi.org/10.21638/spbu05.2021.105), *WoS (ESCI)*
 - *Valko, D.* (2021). Indirect social and economic consequences of the low air quality: empirical studies review. *Governance in modern systems*, [https://doi.org/10.24412/2311-1313-129-21-30](https://doi.org/10.24412/2311-1313-129-21-30)
 - *Valko, D.* (2020). Circular economy: Basic business models and economic opportunities. *Journal of Economics and Economies*, [https://doi.org/10.31063/2073-6517/2020.17-1.12](https://doi.org/10.31063/2073-6517/2020.17-1.12)
-- *Valko, D.* (2019). Circular economy: Definitions and diffusion of the concept in Russian research. *Scientific Journal NRU ITMO*(), [https://doi.org/10.17586/2310-1172-2019-12-2-42-49](https://doi.org/10.17586/2310-1172-2019-12-2-42-49)
+- *Valko, D.* (2019). Circular economy: Definitions and diffusion of the concept in Russian research. *Scientific Journal NRU ITMO*, [https://doi.org/10.17586/2310-1172-2019-12-2-42-49](https://doi.org/10.17586/2310-1172-2019-12-2-42-49)
 
 ### Prepared datasets (*recent*)
 ___
