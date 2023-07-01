@@ -4,15 +4,16 @@
 
 ### Academic interests and expertise	
 ___
-- Data Science for Sustainability
-- Green computing & Green AI
-- Reinforcement Learning
+- Sustainable Development & Circular Economy
+- Environmental Attitudes & Behavior
+- Social Data Science for Sustainability
+
 
 ### Education
 ___
-#### 2018 &emsp;MSc in Computer Science (*cum laude*)
-- [South Ural State University (National Research University)](https://www.susu.ru/en), Russia
-- Supervisor: [Mikhail Zymbler](https://www.researchgate.net/profile/Mikhail-Zymbler-2)
+#### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences*)
+- [Institute of Economics](https://uiec.ru/), Ural Branch of the Russian Academy of Sciences, Russia
+- Supervisor: Mikhail Pestunov
 
 #### 2010 &emsp;MA in Finance and Economics (*cum laude*)
 - [South Ural Institute of Management and Economics](https://www.inueco.ru/), Russia
@@ -20,48 +21,42 @@ ___
 
 ### Professional experience
 ___
-#### 2022 – 2023 &emsp;[L3S Research Center](https://www.l3s.de/), Leibniz University Hannover, Germany
-- ***Visiting Researcher***
-- Machine Learning, Reinforcement Learning, Green Computing
+#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Tyumen, Russia
+- ***Senior Researcher***
+- Quantitative Research, Policy Analysis
+- Environmental Psychology
 
 #### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
-- ***Data Scientist***, ***Data Engineer***
+- ***Data Scientist***
 - Research and Data Analysis
-- Data Mining and Data Preparation (*Python/PostgreSQL, ETL/ELT, Apache Airflow*)
 
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - ***Senior Researcher***, ***Associate Professor***
 - Quantitative Analysis, Econometrics (*ANOVA, SEM, ATET, PSM, CS-ADRL*)
-- Teaching IT, BA/MA Supervision
-
-#### 2010 – 2013 &emsp;Mechel-Fund (Non-State Pension Fund)
-- ***Technician***
-- IT infrastructure maintenance
+- Teaching Economics, BA/MA Supervision
 
 ### Courses (*taken recently*)
 ___
+- 2021 &emsp;Systems Thinking for Sustainable Development / [The Moscow School of Social
+and Economic Sciences](https://www.msses.ru/kursy/novaya-ekologiya-cistemnoe-myshlenie-dlya-ustoychivogo-razvitiya/) ([proof](https://sun9-30.userapi.com/ivH13Q-UZZp-kuAvUzFtnnxyQaL0-OIpX-LaJw/g2LhFOmtlws.jpg))
 - 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
 - 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
-- 2021 &emsp;Machine Learning and Computer Vision / [IT Korpus](https://korpus.io/about/) ([proof]())
-- 2021 &emsp;Introduction to Data Analysis in Python / [Center for Advanced Governance](https://cpur.ru/en/) ([proof](https://sun9-13.userapi.com/hxyTT5MVc12jYp3g7wB89q5Uy58rD5TgQCjgag/US8zXxUijaM.jpg))
 - 2020 &emsp;10 Courses Specialization "Data Science" / [John Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science) ([proof](https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA))
-- 2020 &emsp;4 Courses Specialization "Data Analysis" / [Novosibirsk State University at Coursera]() ([proof](https://www.coursera.org/account/accomplishments/specialization/MZBVE7RHJ7T9))
-- 2020 &emsp;Machine Learning and IT Project Management for Educators / [Moscow Institute of Physics and Technology](https://mipt.ru/english/about/) ([proof](https://sun1.is74.userapi.com/AaslQ7Q_qWX1iA4bfwmYZETJ35DzydmoxImJvQ/BzQ3zFKH9C8.jpg))
-- 2020 &emsp;Information Infrastructure and Artificial Intelligence / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-60.userapi.com/ahMlryfRQFZzJ66Gz0APS2dk7hpGbkCJdMc7Hw/q2H3xsaiWSE.jpg))
-- 2020 &emsp;Artificial Intelligence, Big Data and Machine Learning / [Tomsk State University](https://en.tsu.ru/) ([proof](https://sun9-64.userapi.com/RN4JmbxK7ydbEPg4EDBhK-8JzbLmSLSI5U6Ikw/qUWJyNr3DfU.jpg))
 
 ### Publications (*selected*)
 ___
-- *Valko, D. & Kudenko, D.* (2023). Increasing Energy Efficiency of Bitcoin Infrastructure with Reinforcement Learning and One-shot Path Planning for the Lightning Network. *In Proc. of the Adaptive and Learning Agents Workshop (ALA 2023) at AAMAS 2023*, London, UK, [https://alaworkshop2023.github.io](https://alaworkshop2023.github.io/papers/ALA2023_paper_40.pdf)
-- *Valko, D.* (2018). A recommendation system based on data mining of a scientometric research profile. *Software & Systems*, [http://doi.org/10.15827/0236-235X.122.275-283](http://doi.org/10.15827/0236-235X.122.275-283)
-- *Valko, D.* (2016). Training software to perform technological calculations. *Software & Systems*, [http://doi.org/10.15827/0236-235X.114.179-184](http://doi.org/10.15827/0236-235X.114.179-184)
+- *Valko, D.* (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. *Collabra: Psychology*, [https://doi.org/10.1525/collabra.73637](https://doi.org/10.1525/collabra.73637), Scopus (Q1)
+- *Valko, D.* (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. *Sustainable Production and Consumption*, [https://doi.org/10.1016/j.spc.2021.05.008](https://doi.org/10.1016/j.spc.2021.05.008), Scopus (Q1), WoS (ESCI)
+- *Valko, D.* (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. *Ekonomicheskaya Politika*, [https://doi.org/10.18288/1994-5124-2021-5-40-61](https://doi.org/10.18288/1994-5124-2021-5-40-61), Scopus (Q2), WoS (ESCI)
+- *Valko, D.* (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. *St Petersburg University Journal of Economic Studies*, [https://doi.org/10.21638/spbu05.2021.105](https://doi.org/10.21638/spbu05.2021.105), WoS (ESCI)
+- *Valko, D.* (2021). Indirect social and economic consequences of the low air quality: empirical studies review. *Governance in modern systems*, [https://doi.org/10.24412/2311-1313-129-21-30](https://doi.org/10.24412/2311-1313-129-21-30)
+- *Valko, D.* (2020). Circular economy: Basic business models and economic opportunities. [Journal of Economics and Economies](), [https://doi.org/10.31063/2073-6517/2020.17-1.12](https://doi.org/10.31063/2073-6517/2020.17-1.12)
+- *Valko, D.* (2019). Circular economy: Definitions and diffusion of the concept in Russian research. *Scientific Journal NRU ITMO*(), [https://doi.org/10.17586/2310-1172-2019-12-2-42-49](https://doi.org/10.17586/2310-1172-2019-12-2-42-49)
 
-### Patents
+### Prepared datasets (*recent*)
 ___
-- *Valko, D., Muhina, Yu.* (2020). Web application "Science Festival of the South Ural University of Technology" / Reg. No. [RU2020616358](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2020616358&TypeFile=html). 
-- *Valko, D., Zymbler, M.* (2018). Decision support system in the field of scientific research management based on intellectual analysis of scientometric data / Reg. No. [RU2018613068](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2018613068&TypeFile=html).
-- *Valko, D., Koltashov, A.* (2016). Module for data mining and aggregating of scientometric data from open services on the Internet / Reg. No. [RU2016619028](https://www.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2016619028&TypeFile=html).
-- *Valko, D., Moskvina, V.* (2015). Calculation program for calibration systems for a rolling mill / Reg. No. [RU2015618937](https://new.fips.ru/registers-doc-view/fips_servlet?DB=EVM&DocNumber=2015618937&TypeFile=html).
+- Russia's International Treaties: Bilateral Treaties Historical Data 1887–2021 / Ministry of Foreign Affairs of Russia, Collection of UN Treaties; edited by *Valko D., Gavrilov K., Shakirov O.*, Research Data Infrastructure, CAG, 2021, [https://data-in.ru/data-catalog/datasets/192](https://data-in.ru/data-catalog/datasets/192) 
+- Address Classifier: Combined Geographic Data of FIAS and Russian Post / FIAS, Codificant.ru; edited by *Valko D., Glonin K., Davydov N.*, Research Data Infrastructure, CAG, 2021, [https://data-in.ru/data-catalog/datasets/179](https://data-in.ru/data-catalog/datasets/179)
 
 ### Other professional skills
 ___
