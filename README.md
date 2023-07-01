@@ -39,7 +39,7 @@ ___
 ### Courses (*taken recently*)
 ___
 - 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
-- 2021 &emsp;Systems Thinking for Sustainable Development / [The Moscow School of Social
+- 2021 &emsp;Systems Thinking for Sustainable Development / [Moscow School of Social
 and Economic Sciences](https://www.msses.ru/kursy/novaya-ekologiya-cistemnoe-myshlenie-dlya-ustoychivogo-razvitiya/) ([proof](https://sun9-30.userapi.com/ivH13Q-UZZp-kuAvUzFtnnxyQaL0-OIpX-LaJw/g2LhFOmtlws.jpg))
 - 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
 - 2020 &emsp;10 Courses Specialization "Data Science" / [John Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science) ([proof](https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA))
