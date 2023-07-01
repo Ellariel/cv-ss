@@ -21,7 +21,7 @@ ___
 
 ### Professional experience
 ___
-#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Tyumen, Russia
+#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - ***Senior Researcher***
 - Quantitative Research, Policy Analysis
 - Environmental Psychology
@@ -37,20 +37,20 @@ ___
 
 ### Courses (*taken recently*)
 ___
+- 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
 - 2021 &emsp;Systems Thinking for Sustainable Development / [The Moscow School of Social
 and Economic Sciences](https://www.msses.ru/kursy/novaya-ekologiya-cistemnoe-myshlenie-dlya-ustoychivogo-razvitiya/) ([proof](https://sun9-30.userapi.com/ivH13Q-UZZp-kuAvUzFtnnxyQaL0-OIpX-LaJw/g2LhFOmtlws.jpg))
-- 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
 - 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
 - 2020 &emsp;10 Courses Specialization "Data Science" / [John Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science) ([proof](https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA))
 
 ### Publications (*selected*)
 ___
-- *Valko, D.* (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. *Collabra: Psychology*, [https://doi.org/10.1525/collabra.73637](https://doi.org/10.1525/collabra.73637), Scopus (Q1)
-- *Valko, D.* (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. *Sustainable Production and Consumption*, [https://doi.org/10.1016/j.spc.2021.05.008](https://doi.org/10.1016/j.spc.2021.05.008), Scopus (Q1), WoS (ESCI)
-- *Valko, D.* (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. *Ekonomicheskaya Politika*, [https://doi.org/10.18288/1994-5124-2021-5-40-61](https://doi.org/10.18288/1994-5124-2021-5-40-61), Scopus (Q2), WoS (ESCI)
-- *Valko, D.* (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. *St Petersburg University Journal of Economic Studies*, [https://doi.org/10.21638/spbu05.2021.105](https://doi.org/10.21638/spbu05.2021.105), WoS (ESCI)
+- *Valko, D.* (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. *Collabra: Psychology*, [https://doi.org/10.1525/collabra.73637](https://doi.org/10.1525/collabra.73637), *Scopus (Q1)*
+- *Valko, D.* (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. *Sustainable Production and Consumption*, [https://doi.org/10.1016/j.spc.2021.05.008](https://doi.org/10.1016/j.spc.2021.05.008), *Scopus (Q1), WoS (ESCI)*
+- *Valko, D.* (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. *Ekonomicheskaya Politika*, [https://doi.org/10.18288/1994-5124-2021-5-40-61](https://doi.org/10.18288/1994-5124-2021-5-40-61), *Scopus (Q2), WoS (ESCI)*
+- *Valko, D.* (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. *St Petersburg University Journal of Economic Studies*, [https://doi.org/10.21638/spbu05.2021.105](https://doi.org/10.21638/spbu05.2021.105), *WoS (ESCI)*
 - *Valko, D.* (2021). Indirect social and economic consequences of the low air quality: empirical studies review. *Governance in modern systems*, [https://doi.org/10.24412/2311-1313-129-21-30](https://doi.org/10.24412/2311-1313-129-21-30)
-- *Valko, D.* (2020). Circular economy: Basic business models and economic opportunities. [Journal of Economics and Economies](), [https://doi.org/10.31063/2073-6517/2020.17-1.12](https://doi.org/10.31063/2073-6517/2020.17-1.12)
+- *Valko, D.* (2020). Circular economy: Basic business models and economic opportunities. *Journal of Economics and Economies*, [https://doi.org/10.31063/2073-6517/2020.17-1.12](https://doi.org/10.31063/2073-6517/2020.17-1.12)
 - *Valko, D.* (2019). Circular economy: Definitions and diffusion of the concept in Russian research. *Scientific Journal NRU ITMO*(), [https://doi.org/10.17586/2310-1172-2019-12-2-42-49](https://doi.org/10.17586/2310-1172-2019-12-2-42-49)
 
 ### Prepared datasets (*recent*)
