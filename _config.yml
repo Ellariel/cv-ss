@@ -1,8 +1,11 @@
 plugins:
   - jekyll-relative-links
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
 relative_links:
   enabled: true
   collections: true
 include:
   - README.md
-theme: jekyll-theme-tactile
+remote_theme: piazzai/cvless
