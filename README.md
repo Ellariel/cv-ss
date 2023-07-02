@@ -1,48 +1,46 @@
 # Danila Valko
-
-<sup>Links:&emsp;[<img src="googlescholar.png" width="24" alt="GoogleScholar">](https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru)&emsp;[<img src="researchgate.png" width="22" alt="ResearchGate">](https://www.researchgate.net/profile/Danila-Valko)&emsp;[<img src="linkedin.png" width="22" alt="LinkedIn">](http://www.linkedin.com/in/ellariel)&emsp;[<img src="github.png" width="24" alt="GitHub">](https://github.com/ellariel)</sup><br>
-<sup>E-mail:&emsp;d.v.valko@gmail.com</sup>
+<table><tr><td><p></p></td><td>&nbsp;<a href="https://scholar.google.com/citations?user=nqKyAvUAAAAJ&hl=ru"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
 ___
-- Environmental Attitudes & Behavior
-- Sustainable Development & Circular Economy
-- Social Data Science for Sustainability
+- <font size="4">Environmental Attitudes & Behavior</font>
+- <font size="4">Sustainable Development & Circular Economy</font>
+- <font size="4">Social Data Science for Sustainability</font>
 
 
 ### Education
 ___
 #### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences*)
-- [Institute of Economics](https://uiec.ru/), Ural Branch of the Russian Academy of Sciences, Russia
-- Supervisor: Mikhail Pestunov
+- <font size="4"><a href="https://uiec.ru/">Institute of Economics</a>, Ural Branch of the Russian Academy of Sciences, Russia</font>
+- <font size="4">Supervisor: Mikhail Pestunov</font>
 
-#### 2010 &emsp;MA in Finance and Economics (*cum laude*)
-- [South Ural Institute of Management and Economics](https://www.inueco.ru/), Russia
-- Supervisor: Irina Sergeicheva
+##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
+- <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
+- <font size="4">Supervisor: Irina Sergeicheva</font>
 
 ### Professional experience
 ___
-#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
-- ***Senior Researcher***
-- Quantitative Research, Policy Analysis
-- Environmental Psychology
+##### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
+- <font size="4"><b><i>Senior Researcher</i></b></font>
+- <font size="4">Quantitative Research, Policy Analysis</font>
+- <font size="4">Environmental Psychology</font>
 
-#### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
-- ***Data Scientist***
-- Research and Data Analysis
+##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
+- <font size="4"><b><i>Data Scientist</i></b></font>
+- <font size="4">Research and Data Analysis</font>
 
-#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
-- ***Senior Researcher***, ***Associate Professor***
-- Quantitative Analysis, Econometrics (*ANOVA, SEM, ATET, PSM, CS-ADRL*)
-- Teaching Economics, BA/MA Supervision
+##### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
+- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
+- <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
+- <font size="4">Teaching Economics, BA/MA Supervision</font>
 
 ### Courses (*taken recently*)
 ___
-- 2022 &emsp;Data Science Summer School / [Hertie School](https://www.hertie-school.org/en/) ([proof](https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg))
-- 2021 &emsp;Systems Thinking for Sustainable Development / [Moscow School of Social
-and Economic Sciences](https://www.msses.ru/kursy/novaya-ekologiya-cistemnoe-myshlenie-dlya-ustoychivogo-razvitiya/) ([proof](https://sun9-30.userapi.com/ivH13Q-UZZp-kuAvUzFtnnxyQaL0-OIpX-LaJw/g2LhFOmtlws.jpg))
-- 2021 &emsp;Quantitative Methods / [University of Amsterdam at Coursera](https://www.coursera.org/learn/quantitative-methods) ([proof](https://www.coursera.org/verify/96SKPB7CEG3B))
-- 2020 &emsp;10 Courses Specialization "Data Science" / [John Hopkins University at Coursera](https://www.coursera.org/specializations/jhu-data-science) ([proof](https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA))
+- 2022 &emsp;<font size="4">Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a> (<a href="https://sun9-8.userapi.com/P3CXta04ajoSGk95XtlhZTQIukYbfaQ_fE6kVQ/wxPjvEBQdzY.jpg">proof</a>)</font>
+- 2021 &emsp;<font size="4">Systems Thinking for Sustainable Development / <a href="https://www.msses.ru/kursy/novaya-ekologiya-cistemnoe-myshlenie-dlya-ustoychivogo-razvitiya/">Moscow School of Social
+and Economic Sciences</a> (<a href="https://sun9-30.userapi.com/ivH13Q-UZZp-kuAvUzFtnnxyQaL0-OIpX-LaJw/g2LhFOmtlws.jpg">proof</a>)</font>
+- 2021 &emsp;<font size="4">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam at Coursera</a> (<a href="https://www.coursera.org/verify/96SKPB7CEG3B">proof</a>)</font>
+- 2020 &emsp;<font size="4">10 Courses Specialization "Data Science" / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University at Coursera</a> (<a href="https://www.coursera.org/account/accomplishments/specialization/P9XK9DY3Q9CA">proof</a>)</font>
 
 ### Publications (*selected*)
 ___
@@ -56,15 +54,15 @@ ___
 
 ### Prepared datasets (*recent*)
 ___
-- Russia's International Treaties: Bilateral Treaties Historical Data 1887–2021 / Ministry of Foreign Affairs of Russia, Collection of UN Treaties; edited by *Valko D., Gavrilov K., Shakirov O.*, Research Data Infrastructure, CAG, 2021, [https://data-in.ru/data-catalog/datasets/192](https://data-in.ru/data-catalog/datasets/192) 
-- Address Classifier: Combined Geographic Data of FIAS and Russian Post / FIAS, Codificant.ru; edited by *Valko D., Glonin K., Davydov N.*, Research Data Infrastructure, CAG, 2021, [https://data-in.ru/data-catalog/datasets/179](https://data-in.ru/data-catalog/datasets/179)
+- <font size="4">Russia's International Treaties: Bilateral Treaties Historical Data 1887–2021 / Ministry of Foreign Affairs of Russia, Collection of UN Treaties; edited by <i>Valko D., Gavrilov K., Shakirov O.</i>, Research Data Infrastructure, CAG, 2021, <a href="https://data-in.ru/data-catalog/datasets/192">https://data-in.ru/data-catalog/datasets/192</a></font>
+- <font size="4">Address Classifier: Combined Geographic Data of FIAS and Russian Post / FIAS, Codificant.ru; edited by <i>Valko D., Glonin K., Davydov N.</i>, Research Data Infrastructure, CAG, 2021, <a href="https://data-in.ru/data-catalog/datasets/179">https://data-in.ru/data-catalog/datasets/179</a></font>
 
 ### Other professional skills
 ___
-- Language Skills: Russian (*native*), English (*advanced proficiency*), German (*limited proficiency*)
-- Data Analysis: *Quantitative Methods, Econometrics, Data Mining and Machine Learning*
-- Analysis Software: *Python, R/R-Studio, SPSS, Stata*
-- Software and Web-site Development: *Python, C++, Java, HTML/CSS/JS*
+- <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced proficiency</i>), German (<i>limited proficiency</i>)</font>
+- <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining and Machine Learning</i></font>
+- <font size="4">Analysis Software: <i>Python, R/R-Studio, SPSS, Stata</i></font>
+- <font size="4">Software and Web-site Development: <i>Python, C++, Java, HTML/CSS/JS</i></font>
 
 
 
