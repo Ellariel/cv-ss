@@ -1,5 +1,5 @@
 # Danila Valko
-<table><tr><td><p></p></td><td>&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
+<table><tr><td><p></p></td><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
 ___
