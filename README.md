@@ -20,6 +20,10 @@ ___
 
 ### Professional experience
 ___
+##### 2023 – 2023 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
+- <font size="4"><b><i>Visiting Researcher</i></b> (4 months)</font>
+- <font size="4">Quantitative Research, Digital Sociology</font>
+
 ##### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - <font size="4"><b><i>Senior Researcher</i></b></font>
 - <font size="4">Quantitative Research, Policy Analysis</font>
