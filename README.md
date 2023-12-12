@@ -48,7 +48,7 @@ and Economic Sciences</a> (<a href="https://sun9-30.userapi.com/ivH13Q-UZZp-kuAv
 
 ### Publications (*selected*)
 ___
-- <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak Coleman, J. B., ... Valko, D., ... Van Bavel, J. J.</i> (2024, accepted). Addressing Climate Change with Behavioral Science: A Global Intervention Tournament in 63 Countries. <i>Science Advances</i><a href="#"></a>, <i>Scopus (Q1), Wos</i></font>
+- <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak Coleman, J. B., ... Valko, D., ... Van Bavel, J. J.</i> (2024, accepted). Addressing Climate Change with Behavioral Science: A Global Intervention Tournament in 63 Countries. <i>Science Advances</i><a href="#"></a>, <i>Scopus (Q1), WoS</i></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a>, <i>Scopus (Q1)</i></font>
 - <font size="4"><i>Valko, D., Maltseva, A.</i> (2023). Negative Emotions and Climate Policy Support in Russia (in Russian). <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a>, <i>Scopus (Q2)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a>, <i>Scopus (Q1)</i></font>
