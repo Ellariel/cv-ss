@@ -1,4 +1,5 @@
 # Danila Valko
+<font size="3"><i>PhD in Economics</i></font>
 <table><tr><td><p></p></td><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
@@ -6,7 +7,6 @@ ___
 - <font size="4">Environmental Attitudes & Behavior</font>
 - <font size="4">Sustainable Development & Circular Economy</font>
 - <font size="4">Social Data Science for Sustainability</font>
-
 
 ### Education
 ___
@@ -48,9 +48,10 @@ and Economic Sciences</a> (<a href="https://sun9-30.userapi.com/ivH13Q-UZZp-kuAv
 
 ### Publications (*selected*)
 ___
+- <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak Coleman, J. B., ... Valko, D., ... Van Bavel, J. J.</i> (2024, accepted). Addressing Climate Change with Behavioral Science: A Global Intervention Tournament in 63 Countries. <i>Science Advances</i><a href="#"></a>, <i>Scopus (Q1), Wos</i></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a>, <i>Scopus (Q1)</i></font>
 - <font size="4"><i>Valko, D., Maltseva, A.</i> (2023). Negative Emotions and Climate Policy Support in Russia (in Russian). <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a>, <i>Scopus (Q2)</i></font>
-- <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a>, <i>Scopus (Q1), WoS (ESCI)</i></font>
+- <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a>, <i>Scopus (Q1)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a>, <i>Scopus (Q2), WoS (ESCI)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a>, <i>WoS (ESCI)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Indirect social and economic consequences of the low air quality: empirical studies review. <i>Governance in modern systems</i>, <a href="https://doi.org/10.24412/2311-1313-129-21-30">https://doi.org/10.24412/2311-1313-129-21-30</a></font>
