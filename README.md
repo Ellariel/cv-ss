@@ -54,16 +54,6 @@ ___
 - <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a>, <i>Scopus (Q1)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach  (in Russian). <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a>, <i>Scopus (Q2), WoS (ESCI)</i></font>
 - <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem  (in Russian). <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a>, <i>WoS (ESCI)</i></font>
-<!---
-- <font size="4"><i>Valko, D.</i> (2021). Indirect social and economic consequences of the low air quality: empirical studies review. <i>Governance in modern systems</i>, <a href="https://doi.org/10.24412/2311-1313-129-21-30">https://doi.org/10.24412/2311-1313-129-21-30</a></font>
-- <font size="4"><i>Valko, D.</i> (2020). Circular economy: Basic business models and economic opportunities. <i>Journal of Economics and Economies</i>, <a href="https://doi.org/10.31063/2073-6517/2020.17-1.12">https://doi.org/10.31063/2073-6517/2020.17-1.12</a></font>
-- <font size="4"><i>Valko, D.</i> (2019). Circular economy: Definitions and diffusion of the concept in Russian research. <i>Scientific Journal NRU ITMO</i>, <a href="https://doi.org/10.17586/2310-1172-2019-12-2-42-49">https://doi.org/10.17586/2310-1172-2019-12-2-42-49</a></font>
--->
-<!---
-### Preprints (*recent*)
-___
-- <font size="4"><i>Vlasceanu, M., Doell, K. C., ... Valko, D., ... & Van Bavel, J. J.</i> (2023). Addressing Climate Change with Behavioral Science: A Global Intervention Tournament in 63 Countries. <i>PsyArXiv.</i> <a href="https://doi.org/10.31234/osf.io/cr5at">https://doi.org/10.31234/osf.io/cr5at</a></font>
--->
 
 ### Prepared datasets (*recent*)
 ___
