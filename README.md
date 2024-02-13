@@ -1,6 +1,6 @@
 # Danila Valko
-<font size="3"><i>PhD in Economics</i></font>
-<table><tr><td><p></p></td><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
+<font size="4"><i>PhD in Economics</i></font><br>
+<table><tr><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/ellariel"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>d.v.valko@gmail.com</sup>
 
 ### Academic interests and expertise	
 ___
@@ -10,30 +10,30 @@ ___
 
 ### Education
 ___
-##### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences*)
+#### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences*)
 - <font size="4"><a href="https://uiec.ru/">Institute of Economics</a>, Ural Branch of the Russian Academy of Sciences, Russia</font>
 - <font size="4">Supervisor: Mikhail Pestunov</font>
 
-##### 2010 &emsp;MA in Finance and Economics (*cum laude*)
+#### 2010 &emsp;MA in Finance and Economics (*cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
 ### Professional experience
 ___
-##### 2023 – 2023 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
+#### 2023 – 2023 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b> (4 months)</font>
 - <font size="4">Quantitative Research, Digital Sociology</font>
 
-##### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
+#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - <font size="4"><b><i>Senior Researcher</i></b></font>
 - <font size="4">Quantitative Research, Policy Analysis</font>
 - <font size="4">Environmental Psychology</font>
 
-##### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
+#### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/), Russia
 - <font size="4"><b><i>Data Scientist</i></b></font>
 - <font size="4">Research and Data Analysis</font>
 
-##### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
+#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching Economics, BA/MA Supervision</font>
