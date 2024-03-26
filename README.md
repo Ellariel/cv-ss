@@ -10,11 +10,11 @@ ___
 
 ### Education
 ___
-#### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences*)
+#### 2014 &emsp;PhD in Economics (*Candidate of Economic Sciences, summa cum laude*)
 - <font size="4"><a href="https://uiec.ru/">Institute of Economics</a>, Ural Branch of the Russian Academy of Sciences, Russia</font>
 - <font size="4">Supervisor: Mikhail Pestunov</font>
 
-#### 2010 &emsp;MA in Finance and Economics (*cum laude*)
+#### 2010 &emsp;MA in Finance and Economics (*summa cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
