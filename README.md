@@ -57,6 +57,7 @@ ___
 
 ### Prepared datasets (*recent*)
 ___
+- <font size="4">Educational and Career Trajectories in Russia: Open Datasets; edited by <i>Valko D., Vasilevskaia M., Bunina M., Kozlova M., Filippova A. M., Rud D.</i>, Zenodo, 2024, <a href="https://doi.org/10.5281/zenodo.10913325">https://doi.org/10.5281/zenodo.10913325</a></font>
 - <font size="4">Russia's International Treaties: Bilateral Treaties Historical Data 1887–2021 / Ministry of Foreign Affairs of Russia, Collection of UN Treaties; edited by <i>Valko D., Gavrilov K., Shakirov O.</i>, Research Data Infrastructure, CAG, 2021, <a href="https://data-in.ru/data-catalog/datasets/192">https://data-in.ru/data-catalog/datasets/192</a></font>
 - <font size="4">Address Classifier: Combined Geographic Data of FIAS and Russian Post / FIAS, Codificant.ru; edited by <i>Valko D., Glonin K., Davydov N.</i>, Research Data Infrastructure, CAG, 2021, <a href="https://data-in.ru/data-catalog/datasets/179">https://data-in.ru/data-catalog/datasets/179</a></font>
 
