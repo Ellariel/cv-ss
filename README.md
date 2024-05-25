@@ -64,9 +64,9 @@ ___
 ### Other professional skills
 ___
 - <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced proficiency</i>), German (<i>limited proficiency</i>)</font>
-- <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining and Machine Learning</i></font>
+- <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining</i></font>
 - <font size="4">Analysis Software: <i>Python, R/R-Studio, SPSS, Stata</i></font>
-- <font size="4">Software and Web-site Development: <i>Python, C++, Java, HTML/CSS/JS</i></font>
+- <font size="4">Software and Web- Development: <i>Python, C#, Java, HTML/CSS/JS</i></font>
 
 
 
