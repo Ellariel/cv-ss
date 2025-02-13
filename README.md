@@ -57,7 +57,7 @@ ___
 - <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a></font>
 - <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a></font>
 
-### Prepared datasets (*recent*)
+### Prepared datasets and data papers (*recent*)
 ___
 - <font size="4"><i>Valko, D., Vasilevskaia, M., Bunina, M., Kozlova, M., Filippova, A. M., & Rud, D.</i> (2024). Educational and Career Trajectories in Russia: Introducing a New Source and Datasets with a High Granularity. <i>Research Data Journal for the Humanities and Social Sciences</i>, <a href="https://doi.org/10.1163/24523666-bja10046">https://doi.org/10.1163/24523666-bja10046</a></font>
 - <font size="4"><i>Doell, K. C., Todorova, B., Vlasceanu, M., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). The International Climate Psychology Collaboration: Climate change-related data collected from 63 countries. <i>Scientific Data</i>, <a href="https://doi.org/10.1038/s41597-024-03865-1">https://doi.org/10.1038/s41597-024-03865-1</a></font>
