@@ -50,6 +50,7 @@ and Economic Sciences</a></font>
 
 ### Publications (*selected*)
 ___
+- <font size="4"><i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.3387">https://doi.org/10.1002/sd.3387</a></font>
 - <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, <a href="https://doi.org/10.1126/sciadv.adj5778">https://doi.org/10.1126/sciadv.adj5778</a></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a></font>
 - <font size="4"><i>Valko, D., & Maltseva, A.</i> (2023). Negative emotions and climate policy support in Russia. <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a></font>
