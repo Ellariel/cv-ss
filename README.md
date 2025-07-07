@@ -14,7 +14,7 @@ ___
 - <font size="4"><a href="https://uiec.ru/">Institute of Economics</a>, Ural Branch of the Russian Academy of Sciences, Russia</font>
 - <font size="4">Supervisor: Mikhail Pestunov</font>
 
-#### 2010 &emsp;B.A.+M.A. in Finance and Economics (*summa cum laude*)
+#### 2010 &emsp;M.Sc. in Economics (*summa cum laude*)
 - <font size="4"><a href="https://www.inueco.ru/">South Ural Institute of Management and Economics</a>, Russia</font>
 - <font size="4">Supervisor: Irina Sergeicheva</font>
 
