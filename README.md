@@ -36,7 +36,7 @@ ___
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
-- <font size="4">Teaching Economics, B.A./M.A. Thesis Supervision</font>
+- <font size="4">Teaching Economics, B.Sc./M.Sc. Thesis Supervision</font>
 
 ### Courses (*taken recently*)
 ___
