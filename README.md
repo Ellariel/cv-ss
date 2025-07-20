@@ -24,6 +24,10 @@ ___
 - <font size="4"><b><i>Visiting Researcher</i></b> (4 months)</font>
 - <font size="4">Quantitative Research, Digital Sociology</font>
 
+#### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
+- <font size="4"><b><i>Data Analyst, Intern</i></b> (3 months)</font>
+- <font size="4">Data Analysis, Machine Learning</font>
+
 #### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - <font size="4"><b><i>Senior Researcher</i></b></font>
 - <font size="4">Quantitative Research, Policy Analysis</font>
