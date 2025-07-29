@@ -25,8 +25,9 @@ ___
 - <font size="4">Quantitative Research, Digital Sociology</font>
 
 #### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
-- <font size="4"><b><i>Data Analyst, Intern</i></b> (3 months)</font>
+- <font size="4"><b><i>Data Analyst, Internship at a AI startup</i></b> (3 months)</font>
 - <font size="4">Data Analysis, Machine Learning</font>
+- <font size="4">Modeling and analysis of sustainablity preferences</font>
 
 #### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - <font size="4"><b><i>Senior Researcher</i></b></font>
@@ -69,7 +70,7 @@ ___
 
 ### Other professional skills
 ___
-- <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced</i>), German (<i>limited</i>)</font>
+- <font size="4">Language Skills: Russian (<i>native</i>), English (<i>advanced</i>), German (<i>advanced</i>)</font>
 - <font size="4">Data Analysis: <i>Quantitative Methods, Econometrics, Data Mining</i></font>
 - <font size="4">Analysis Software: <i>Python, R/R-Studio, SPSS, Stata</i></font>
 - <font size="4">Software Development: <i>Python, C#, Java, HTML/CSS/JS</i></font>
