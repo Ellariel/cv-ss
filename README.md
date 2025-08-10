@@ -21,25 +21,25 @@ ___
 ### Professional experience
 ___
 #### 2023 – 2023 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
-- <font size="4"><b><i>Visiting Researcher</i></b> (4 months)</font>
+- <font size="4"><b><i>Visiting Researcher</i></b><i>, Part-time</i> (4 months)</font>
 - <font size="4">Quantitative Research, Digital Sociology</font>
 
 #### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
-- <font size="4"><b><i>Data Analyst, Internship at a AI startup</i></b> (3 months)</font>
+- <font size="4"><b><i>Data Research Analyst</i></b><i>, Part-time</i> (3 months)</font>
 - <font size="4">Data Analysis, Machine Learning</font>
 - <font size="4">Modeling and analysis of sustainablity preferences</font>
 
 #### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
-- <font size="4"><b><i>Senior Researcher</i></b></font>
+- <font size="4"><b><i>Senior Researcher</i></b><i>, Part-time</i></font>
 - <font size="4">Quantitative Research, Policy Analysis</font>
 - <font size="4">Environmental Psychology</font>
 
 #### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/) (NGO), Russia
-- <font size="4"><b><i>Data Scientist</i></b></font>
+- <font size="4"><b><i>Data Scientist</i></b><i>, Part-time</i></font>
 - <font size="4">Research and Data Analysis</font>
 
 #### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
-- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b></font>
+- <font size="4"><b><i>Senior Researcher, Associate Professor</i></b><i>, Full-time</i></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching Economics, B.Sc./M.Sc. Thesis Supervision</font>
 
