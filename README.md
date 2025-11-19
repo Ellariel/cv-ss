@@ -20,11 +20,11 @@ ___
 
 ### Professional experience
 ___
-#### 2023 – 2023 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
+#### 2023.09 – 2023.12 &emsp; [Institute for East European Studies](https://www.oei.fu-berlin.de/), Free University of Berlin, Germany
 - <font size="4"><b><i>Visiting Researcher</i></b><i>, Part-time</i> (4 months)</font>
 - <font size="4">Quantitative Research, Digital Sociology</font>
 
-#### 2023 – 2023 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
+#### 2023.08 – 2023.10 &emsp; [choyze](https://choyze.de/) (GmbH), Germany
 - <font size="4"><b><i>Data Research Analyst</i></b><i>, Part-time</i> (3 months)</font>
 - <font size="4">Data Analysis, Machine Learning</font>
 - <font size="4">Modeling and analysis of sustainablity preferences</font>
@@ -34,11 +34,11 @@ ___
 - <font size="4">Quantitative Research, Policy Analysis</font>
 - <font size="4">Environmental Psychology</font>
 
-#### 2021 – 2022 &emsp;[Center for Advanced Governance](https://cpur.ru/en/) (NGO), Russia
+#### 2021.07 – 2022.09 &emsp;[Center for Advanced Governance](https://cpur.ru/en/) (NGO), Russia
 - <font size="4"><b><i>Data Scientist</i></b><i>, Part-time</i></font>
 - <font size="4">Research and Data Analysis</font>
 
-#### 2014 – 2022 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
+#### 2014.09 – 2022.08 &emsp;[The South Ural University of Technology](https://www.inueco.ru/), Russia
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b><i>, Full-time</i></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching Economics, B.Sc./M.Sc. Thesis Supervision</font>
@@ -59,10 +59,10 @@ ___
 - <font size="4"><i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.3387">https://doi.org/10.1002/sd.3387</a></font>
 - <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, <a href="https://doi.org/10.1126/sciadv.adj5778">https://doi.org/10.1126/sciadv.adj5778</a></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a></font>
-- <font size="4"><i>Valko, D., & Maltseva, A.</i> (2023). Negative emotions and climate policy support in Russia. <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a></font>
+<!-- - <font size="4"><i>Valko, D., & Maltseva, A.</i> (2023). Negative emotions and climate policy support in Russia. <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a></font> -->
 - <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a></font>
-- <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a></font>
-- <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a></font>
+<!-- - <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a></font>
+- <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a></font> -->
 
 ### Prepared datasets and data papers (*recent*)
 ___
