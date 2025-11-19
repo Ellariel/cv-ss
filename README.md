@@ -1,5 +1,5 @@
 # Danila Valko
-<font size="4"><i>Ph.D. in Economics</i></font><br>
+<font size="4"><i>Ph.D., M.Sc. in Economics</i></font><br>
 <table><tr><td>&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en"><img src="googlescholar.png" width="24" alt="GoogleScholar"></a></td><td>&nbsp;&nbsp;<a href="https://www.researchgate.net/profile/Danila-Valko"><img src="researchgate.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="https://orcid.org/0000-0002-8058-7539"><img src="orcid.png" width="22" alt="ResearchGate"></a></td><td>&nbsp;&nbsp;<a href="http://www.linkedin.com/in/danila-valko"><img src="linkedin.png" width="22" alt="LinkedIn"></a></td><td>&nbsp;&nbsp;<a href="https://github.com/ellariel"><img src="github.png" width="24" alt="GitHub"></a></td></tr></table><sup>danila.valko@proton.me</sup>
 
 ### Academic interests and expertise	
@@ -55,6 +55,7 @@ and Economic Sciences</a></font>
 
 ### Publications (*selected*)
 ___
+- <font size="4"><i>Valko, D., & Thompson, K.</i> (2025). Cultural differences and interdependencies in climate change mitigation efforts and their psychological antecedents across 63 countries. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.70454">https://doi.org/10.1002/sd.70454</a></font>
 - <font size="4"><i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.3387">https://doi.org/10.1002/sd.3387</a></font>
 - <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, <a href="https://doi.org/10.1126/sciadv.adj5778">https://doi.org/10.1126/sciadv.adj5778</a></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a></font>
