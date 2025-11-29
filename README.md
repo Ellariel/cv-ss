@@ -29,7 +29,7 @@ ___
 - <font size="4">Data Analysis, Machine Learning</font>
 - <font size="4">Modeling and analysis of sustainablity preferences</font>
 
-#### 2022 – 2023 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
+#### 2022.10 – 2023.08 &emsp; [School of Environmental and Social Studies](http://anthropo.school/english), Tyumen State University, Russia
 - <font size="4"><b><i>Senior Researcher</i></b><i>, Part-time</i></font>
 - <font size="4">Quantitative Research, Policy Analysis</font>
 - <font size="4">Environmental Psychology</font>
@@ -42,6 +42,10 @@ ___
 - <font size="4"><b><i>Senior Researcher, Associate Professor</i></b><i>, Full-time</i></font>
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching Economics, B.Sc./M.Sc. Thesis Supervision</font>
+
+### Honors
+___
+- 2025 &emsp;Robert B. Cialdini Prize, <a href="https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize#item-accordion-item--8393__panel">SPSP</a>, for a <a href="https://doi.org/10.1126/sciadv.adj5778">publication</a> that uses field methods and demonstrates relevance to outside groups. 
 
 ### Courses (*taken recently*)
 ___
