@@ -47,7 +47,7 @@ ___
 
 ### Honors
 ___
-- 2025 &emsp;Robert B. Cialdini Prize, <a href="https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize#item-accordion-item--8393__panel">SPSP</a>, for a <a href="https://doi.org/10.1126/sciadv.adj5778">publication</a> that uses field methods and demonstrates relevance to outside groups. 
+- 2025 &emsp;<font size="4">Robert B. Cialdini Prize, <a href="https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize#item-accordion-item--8393__panel">SPSP</a>, for a <a href="https://doi.org/10.1126/sciadv.adj5778">publication</a> that uses field methods and demonstrates relevance to outside groups.</font>
 
 
 ### Courses (*taken recently*)
