@@ -8,6 +8,7 @@ ___
 - <font size="4">Sustainable Development & Circular Economy</font>
 - <font size="4">Social Data Science for Sustainability</font>
 
+
 ### Education
 ___
 #### 2014 &emsp;Ph.D. in Economics (*summa cum laude*)
@@ -43,9 +44,11 @@ ___
 - <font size="4">Quantitative Analysis, Econometrics (<i>ANOVA, SEM, ATET, PSM, CS-ADRL</i>)</font>
 - <font size="4">Teaching Economics, B.Sc./M.Sc. Thesis Supervision</font>
 
+
 ### Honors
 ___
 - 2025 &emsp;Robert B. Cialdini Prize, <a href="https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize#item-accordion-item--8393__panel">SPSP</a>, for a <a href="https://doi.org/10.1126/sciadv.adj5778">publication</a> that uses field methods and demonstrates relevance to outside groups. 
+
 
 ### Courses (*taken recently*)
 ___
@@ -57,21 +60,21 @@ and Economic Sciences</a></font>
 - 2021 &emsp;<font size="4">Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam | Coursera</a></font>
 - 2020 &emsp;<font size="4">Data Science, 10 courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University | Coursera</a></font>
 
+
 ### Publications (*selected*)
 ___
 - <font size="4"><i>Valko, D., & Thompson, K.</i> (2025). Cultural differences and interdependencies in climate change mitigation efforts and their psychological antecedents across 63 countries. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.70454">https://doi.org/10.1002/sd.70454</a></font>
 - <font size="4"><i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.3387">https://doi.org/10.1002/sd.3387</a></font>
 - <font size="4"><i>Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, <a href="https://doi.org/10.1126/sciadv.adj5778">https://doi.org/10.1126/sciadv.adj5778</a></font>
 - <font size="4"><i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a></font>
-<!-- - <font size="4"><i>Valko, D., & Maltseva, A.</i> (2023). Negative emotions and climate policy support in Russia. <i>Psychology. Journal of the Higher School of Economics</i>, <a href="https://doi.org/10.17323/1813-8918-2023-4-643-665">https://doi.org/10.17323/1813-8918-2023-4-643-665</a></font> -->
 - <font size="4"><i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a></font>
-<!-- - <font size="4"><i>Valko, D.</i> (2021). Impact of renewable energy and tax regulation on reducing greenhouse gas emissions in OECD countries: CS-ARDL approach. <i>Ekonomicheskaya Politika</i>, <a href="https://doi.org/10.18288/1994-5124-2021-5-40-61">https://doi.org/10.18288/1994-5124-2021-5-40-61</a></font>
-- <font size="4"><i>Valko, D.</i> (2021). Crowdfunding as a tool for investing in sustainable development projects and its place in the green finance ecosystem. <i>St Petersburg University Journal of Economic Studies</i>, <a href="https://doi.org/10.21638/spbu05.2021.105">https://doi.org/10.21638/spbu05.2021.105</a></font> -->
+
 
 ### Prepared datasets and data papers (*recent*)
 ___
 - <font size="4"><i>Valko, D., Vasilevskaia, M., Bunina, M., Kozlova, M., Filippova, A. M., & Rud, D.</i> (2024). Educational and Career Trajectories in Russia: Introducing a New Source and Datasets with a High Granularity. <i>Research Data Journal for the Humanities and Social Sciences</i>, <a href="https://doi.org/10.1163/24523666-bja10046">https://doi.org/10.1163/24523666-bja10046</a></font>
 - <font size="4"><i>Doell, K. C., Todorova, B., Vlasceanu, M., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). The International Climate Psychology Collaboration: Climate change-related data collected from 63 countries. <i>Scientific Data</i>, <a href="https://doi.org/10.1038/s41597-024-03865-1">https://doi.org/10.1038/s41597-024-03865-1</a></font>
+
 
 ### Other professional skills
 ___
